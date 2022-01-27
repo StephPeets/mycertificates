@@ -1,4 +1,3 @@
-# mycertificates
-A collection of certificates for all courses I've completed over the years
+## Certificates
 
-![LaunchCode 101 JavaScript & Java Web Development](./images/2022-01_launchcode-web-dev-peets.png)
+<a href="/2022-01_launchcode-web-dev-peets.pdf"><img src="/images/2022-01_launchcode-web-dev-peets.png" alt="LaunchCode 101 JavaScript &amp; Java Web Development" width="30%" /></a>
